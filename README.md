@@ -2,7 +2,7 @@
 
 # Mini Mobile
 
-A console application made entirely with C and winapi.
+A console application made entirely with C and Win32-API.
 It is actually a imitation of old symbian os that was used by old keypad phones like nokia and blackberry.
 
 ## Preview
